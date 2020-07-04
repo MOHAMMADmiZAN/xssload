@@ -1,5 +1,6 @@
 # xssload
-Best Playload For Xss Attack playing with Burp Suite or Owasp Zap
+Best Playload For Xss. Attack...
+playing with Burp Suite, Owasp Zap
 
 
 
