@@ -1,2 +1,2 @@
-# xxs playlod for xxs attack 
-## enjoy [PLAYLOADS](https://github.com/MOHAMMADmiZAN/xssload)
+# xxs playlods for xxs attack 
+## Enjoy [PLAYLOADS](https://github.com/MOHAMMADmiZAN/xssload)
